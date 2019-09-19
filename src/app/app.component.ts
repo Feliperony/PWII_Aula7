@@ -8,5 +8,9 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Hello World!! Viaja Net.Com @ Naqule piqueee. e taligado so nois pa ta aqui.';
   foto = 'favicon.ico';
+
+  exibir(){
+    alert(this.title);
+  }
 }
 
