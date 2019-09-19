@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Hello World!! Viaja Net.Com @ Naqule piqueee.';
+  title = 'Hello World!! Viaja Net.Com @ Naqule piqueee. e taligado so nois pa ta aqui.';
+  foto = 'favicon.ico';
 }
 
